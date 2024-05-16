@@ -1,1 +1,1 @@
-G[Go to markdown.md](markdown.md)
+[Go to markdown.md](markdown.md)

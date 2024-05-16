@@ -1,1 +1,1 @@
-[[Go to README.md](README.md)
+[Go to README.md](README.md)
