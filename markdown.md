@@ -1,6 +1,5 @@
 [Go to README.md](README.md)
 
-<<<<<<< HEAD
 # Mon premier et néanmoins incroyable markdown 
 #### par D'haene Anthony
 ## qui suis je?
@@ -19,6 +18,4 @@ un illustre magicien bien connu dans toute la région de ma baraque.
 3. apprendre a un rytme soutenu qui rend employable relativement rapidement
 ###### chokbar du gif
 ![chokbar](https://media1.tenor.com/m/vidTLmrv68sAAAAC/hog-exploding.gif)
-=======
-<span style="color:green;">yes</span>
->>>>>>> aed25ceb82e1ed614d2b620711fa2e05886585c0
+
